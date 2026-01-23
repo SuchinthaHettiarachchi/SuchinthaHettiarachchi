@@ -1,16 +1,24 @@
-## Hi there 👋
+# Suchintha Hettiarachchi
 
-<!--
-**SuchinthaHettiarachchi/SuchinthaHettiarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Undergraduate | Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+## About
+I am an IT undergraduate with a strong interest in full-stack web development.  
+I enjoy building practical applications, learning modern technologies, and continuously improving my technical and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Languages**
+- JavaScript  
+- Java  
+- Python  
+- SQL  
+
+**Technologies & Tools**
+- React.js  
+- Node.js  
+- Express.js  
+- MongoDB  
+- HTML & CSS  
+- Git & GitHub  
+- Postman  
