@@ -53,3 +53,50 @@
 </table>
 
 ---
+
+### 🔥 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📦 omni-search-hub</h3>
+      Unified search aggregating Google, Wikipedia & News APIs.
+      <br><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="18">
+      <img src="https://img.shields.io/badge/Stars-24-3fb950?style=flat-square" height="18">
+    </td>
+    <td width="50%">
+      <h3>📦 English-Siksha</h3>
+      Interactive English learning with quizzes & flashcards.
+      <br><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="18">
+      <img src="https://img.shields.io/badge/Stars-18-3fb950?style=flat-square" height="18">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📦 task-flow-api</h3>
+      Task management REST API with auth & WebSockets.
+      <br><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="18">
+      <img src="https://img.shields.io/badge/Stars-15-3fb950?style=flat-square" height="18">
+    </td>
+    <td width="50%">
+      <h3>📦 java-data-structures</h3>
+      Data structures & algorithms in Java.
+      <br><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="18">
+      <img src="https://img.shields.io/badge/Stars-12-3fb950?style=flat-square" height="18">
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+*"The only way to do great work is to love what you do." — Steve Jobs*
+
+<img src="https://komarev.com/ghpvc/?username=suchintha-hettiarachchi&color=58a6ff&style=flat-square&label=PROFILE+VIEWS">
+
+</div>
