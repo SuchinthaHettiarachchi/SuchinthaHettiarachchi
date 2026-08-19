@@ -5,9 +5,9 @@
 
 *I build practical applications and continuously improve my skills in modern web technologies.*
 
-[![Email](https://img.shields.io/badge/Email-58a6ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suchinthashettiarachchi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suchinthahettiarachchi/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suchintha_hettiarachchi/)
+[![Email](https://img.shields.io/badge/Email-suchinthashettiarachchi@gmail.com-58a6ff?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=suchinthashettiarachchi@gmail.com)
 
 </div>
 
