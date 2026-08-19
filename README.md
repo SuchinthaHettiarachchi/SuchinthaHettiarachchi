@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/REPLACE_THIS?v=4" width="150" height="150" style="border-radius:50%;border:3px solid #30363d;">
-
 # Hey, I'm Suchintha
 **IT Undergraduate | Aspiring Full-Stack Developer**
 
 *I build practical applications and continuously improve my skills in modern web technologies.*
 
-[![Email](https://img.shields.io/badge/Email-58a6ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suchintha@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suchintha-hettiarachchi)
+[![Email](https://img.shields.io/badge/Email-58a6ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suchinthashettiarachchi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suchinthahettiarachchi/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suchintha_hettiarachchi/)
 
 </div>
 
@@ -48,46 +47,8 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=suchintha-hettiarachchi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f0f6fc&icon_color=58a6ff&text_color=8b949e" height="190"></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="18"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchintha-hettiarachchi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e" height="190"></td>
-  </tr>
-</table>
-
----
-
-### 🔥 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📦 omni-search-hub</h3>
-      Unified search aggregating Google, Wikipedia & News APIs.
-      <br><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="18">
-      <img src="https://img.shields.io/badge/Stars-24-3fb950?style=flat-square" height="18">
-    </td>
-    <td width="50%">
-      <h3>📦 English-Siksha</h3>
-      Interactive English learning with quizzes & flashcards.
-      <br><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="18">
-      <img src="https://img.shields.io/badge/Stars-18-3fb950?style=flat-square" height="18">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📦 task-flow-api</h3>
-      Task management REST API with auth & WebSockets.
-      <br><br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="18">
-      <img src="https://img.shields.io/badge/Stars-15-3fb950?style=flat-square" height="18">
-    </td>
-    <td width="50%">
-      <h3>📦 java-data-structures</h3>
-      Data structures & algorithms in Java.
-      <br><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="18">
-      <img src="https://img.shields.io/badge/Stars-12-3fb950?style=flat-square" height="18">
-    </td>
   </tr>
 </table>
 
