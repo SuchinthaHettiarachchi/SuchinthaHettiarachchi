@@ -42,3 +42,14 @@
 </div>
 
 ---
+
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=suchintha-hettiarachchi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f0f6fc&icon_color=58a6ff&text_color=8b949e" height="190"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchintha-hettiarachchi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e" height="190"></td>
+  </tr>
+</table>
+
+---
